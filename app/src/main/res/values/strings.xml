@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CompoundButtonDemo</string>
+    <string name="text_place">Taipei station</string>
+    <string name="text_rbFemale">female</string>
+    <string name="text_rbMale">male</string>
+    <string name="textOn_tbVibrateOn">vibrate on</string>
+    <string name="textOff_tbVibrateOff">vibrate off</string>
+    <string name="swWifi">WiFi</string>
+    <string name="textOn_swWifiOn">on</string>
+    <string name="textOff_swWifiOff">off</string>
+    <string name="checked">checked</string>
+    <string name="unchecked">unchecked</string>
+
+</resources>
